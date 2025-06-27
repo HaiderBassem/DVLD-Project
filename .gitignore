@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+.vs/
+*.user/
+*.suo
+*.userosscache
+*.sln.docstates
+
+bin/
+obj/
+
+*.log
+
+ehthumbs.db
+Desktop.ini
+
